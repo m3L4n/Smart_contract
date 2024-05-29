@@ -258,6 +258,3 @@ and selected your account in the wallet ( a pop up of metamask will show on your
 After this your go on `at address` with a input and your put your adress contract
 and you can test all the feature of the token
 
-you can see this video to more understand of what we cant do with it
-
-https://youtu.be/vpgYZu6kqV8
